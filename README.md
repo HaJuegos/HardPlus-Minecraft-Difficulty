@@ -1,6 +1,10 @@
 # Impossible Difficuty Add-on
 ![pack_icon](https://user-images.githubusercontent.com/102632956/168178055-d5a7b9a3-a2f7-4a53-872e-80349a583ec0.png)
 
+All credits to the original creator @Fundage (Fundy) (https://www.youtube.com/c/Fundy), this is only a recreation for bedrock edition **WITHOUT AUTHORIZATION**. Please read the file named "Credits.txt" inside the add-on for more information about it.
+
+Todos los creditos al creador original @Fundage (Fundy) (https://www.youtube.com/c/Fundy), esta es solo una recreacion para bedrock edition **SIN AUTORIZACION**. Por favor lease el archivo llamado "Credits.txt" dentro del add-on para mas informacion al respecto.
+
 [ENG]
 - This add-on is an early version for all public, which was created only by Ha Juegos#0123 and belongs to Ha Juegos#0123, Any copy or unauthorized modification or upload, external download links, Upload content with the add-on without leaving permissions and say it is your property. is completely punishable. For more information about your modifications or anything else, contact me privately in discord (Ha Juegos#0123), via twitter (https://twitter.com/ha_juegos) or via mail (hajuegos87@gmail.com). Thanks for downloading and testing this add-on :D. I know it can be improved a lot with time to get to a final version. Enjoy! If you saw a bug or want to report something to improve, you can do it directly on this GitHub project (https://github.com/HaJuegos/Impossible-Difficulty-Add-on/issues/new/choose) or on my discord server (https://discord.gg/p6a7tqVJxn). Any bug report or improvement idea will be very appreciated or even rewarded in the future. **WARNING: Server completely in Spanish**.
 Any bug report or idea for improvement will be greatly appreciated or even rewarded in the future.
