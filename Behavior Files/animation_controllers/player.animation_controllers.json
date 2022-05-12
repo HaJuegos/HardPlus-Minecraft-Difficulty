@@ -1,0 +1,44 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.17.30",
+	"animation_controllers": {
+		"controller.animation.ha.entry_world": {
+			"initial_state": "default",
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"run_command": "query.is_moving == 1"
+						}
+					]
+				},
+				"run_command": {
+					"on_entry": [
+						"/function System_commands/WC_commands"
+					]
+				}
+			}
+		},
+		"controller.animation.ha.dead_player": {
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"remove_event": "query.is_alive == 0"
+						}
+					]
+				},
+				"remove_event": {
+					"transitions": [
+						{
+							"default": "!query.is_alive == 0"
+						}
+					],
+					"on_entry": [
+						"@s ha:no_damage_fire"
+					]
+				}
+			}
+		}
+	}
+}
