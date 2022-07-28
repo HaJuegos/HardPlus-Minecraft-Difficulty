@@ -1,8 +1,8 @@
-# DESCARGAS RAPIDAS
+# DESCARGAS RAPIDAS / FAST DOWNLOADS
 ## [ESP]
 
 - Descargar Todo del add-on (Mundo, comportamientos y texturas):
-	- [**__DESCARGAR TODO__**](https://github.com/HaJuegos/HardPlus-Minecraft-Difficulty/raw/main/descargas-dowloads/world_template/World_Template-Mundo_Template.mctemplate
+	- [**__DESCARGAR TODO__**](https://github.com/HaJuegos/HardPlus-Minecraft-Difficulty/raw/main/descargas-dowloads/world_template/World_Template-Mundo_Template.mctemplate)
 
 - Add-on Por separado:
 
