@@ -21,7 +21,7 @@
 ## [ENG]
 
 - Download all add-on (World, behaviors and textures):
-	- [**__DOWNLOAD ALL__**](https://github.com/HaJuegos/HardPlus-Minecraft-Difficulty/raw/main/descargas-dowloads/world_template/World_Template-Mundo_Template.mctemplate
+	- [**__DOWNLOAD ALL__**](https://github.com/HaJuegos/HardPlus-Minecraft-Difficulty/raw/main/descargas-dowloads/world_template/World_Template-Mundo_Template.mctemplate)
 
 - Add-on Separately:
 
