@@ -1,30 +1,52 @@
-# Impossible Difficuty Add-on
-![pack_icon](https://user-images.githubusercontent.com/102632956/168178055-d5a7b9a3-a2f7-4a53-872e-80349a583ec0.png)
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/997603479822536794/1002040269153255455/splash_changed.png" alt="Addon Icon" width=800>
+  <h3 align="center">Hard+ Minecraft Difficulty Add-on</h3>
+  
+ <p align="center">
+Algo "un poco mas dificil" para jugar y experimentar con amigos, Lograras llegar al end? / Something "a bit more difficult" to play and experiment with friends, will you make it to the end?</p>
+</p>
 
-All credits to the original creator @Fundy (Fundy) (https://www.youtube.com/c/Fundy), this is only a recreation for bedrock edition **WITHOUT AUTHORIZATION**. Please read the file named "Credits.txt" inside the add-on for more information about it.
+<p align="center">
+  <a href="https://discord.gg/p6a7tqVJxn"><img src="https://img.shields.io/discord/782053401281429504?style=plastic&color=red&logo=discord&label=Discord%20Server" alt="Discord "/></a>
+  <a href="https://ko-fi.com/hajuegos0710"><img src="https://img.shields.io/npm/v/express?url=https://ko-fi.com/hajuegos0710&style=plastic&logo=kofi&label=My%20Donations%20page&color=inactive" alt="Ko-Fi "/></a>
+  <a href="https://github.com/HaJuegos/HardPlus-Minecraft-Difficulty"><img src="https://img.shields.io/github/stars/HaJuegos/HardPlus-Minecraft-Difficulty?label=Current%20stars&style=plastic&logo=github&color=blueviolet" alt="GitHub Stars "/></a>
+</p>
+<p align="center">
+  <a href="https://twitter.com/ha_juegos?s=09"><img src="https://img.shields.io/twitter/follow/ha_juegos?style=plastic&color=success&logo=twitter&label=My%20Twitter" alt="Twitter "/></a>
+  <a href="https://www.youtube.com/watch?v=5C2wdLLTbTI"><img src="https://img.shields.io/youtube/views/7mA2c0vx2VQ?style=plastic&logo=youtube&color=red&label=Original%20Video" alt="Youtube "/></a>
+  <a href="https://www.youtube.com/watch?v=SWd6QM0TTJo"><img src="https://img.shields.io/youtube/views/SWd6QM0TTJo?style=plastic&logo=youtube&color=red&label=Video%20tutorial%20in%20Spanish" alt="Youtube "/></a>
+</p>
 
-Todos los creditos al creador original @Fundy (Fundy) (https://www.youtube.com/c/Fundy), esta es solo una recreacion para bedrock edition **SIN AUTORIZACION**. Por favor lease el archivo llamado "Credits.txt" dentro del add-on para mas informacion al respecto.
+## NOTAS DE USO / NOTES FOR USE
 
 [ENG]
-- This add-on is an early version for all public, which was created only by Ha Juegos#0123 and belongs to Ha Juegos#0123, Any copy or unauthorized modification or upload, external download links, Upload content with the add-on without leaving permissions and say it is your property. is completely punishable. For more information about your modifications or anything else, contact me privately in discord (Ha Juegos#0123), via twitter (https://twitter.com/ha_juegos) or via mail (hajuegos87@gmail.com). Thanks for downloading and testing this add-on :D. I know it can be improved a lot with time to get to a final version. Enjoy! If you saw a bug or want to report something to improve, you can do it directly on this GitHub project (https://github.com/HaJuegos/Impossible-Difficulty-Add-on/issues/new/choose) or on my discord server (https://discord.gg/p6a7tqVJxn). Any bug report or improvement idea will be very appreciated or even rewarded in the future. **WARNING: Server completely in Spanish**.
+- This add-on was created only by Ha Juegos#0123 and belongs to Ha Juegos#0123, Any copy or unauthorized modification or upload, external download links, Upload content with the add-on without leaving permissions and say it is your property. is completely punishable. For more information about your modifications or anything else, contact me privately in discord (Ha Juegos#0123), via twitter (https://twitter.com/ha_juegos) or via mail (hajuegos87@gmail.com). Thanks for downloading and testing this add-on :D. I know it can be improved a lot with time to get to a final version. Enjoy! If you saw a bug or want to report something to improve, you can do it directly on this GitHub project (https://github.com/HaJuegos/HardPlus-Minecraft-Difficulty/issues/new/choose) or on my discord server (https://discord.gg/p6a7tqVJxn). Any bug report or improvement idea will be very appreciated or even rewarded in the future. **WARNING: Server completely in Spanish**.
 Any bug report or idea for improvement will be greatly appreciated or even rewarded in the future.
 
 [ESP]
-- Este Add-on es una version temprana para todo publico, el cual fue creado unicamente por Ha Juegos#0123 y pertenece a Ha Juegos#0123, Cualquier copia o modificacion no autorizada o subida, Links de descargas externos, Subir contenido con el add-on sin dejar permisos y decir que es de tu propiedad. es completamente sancionable. Para mas informacion sobre tus modificaciones o otro tipo de cosa, contactame en Privado en discord (Ha Juegos#0123), via twitter (https://twitter.com/ha_juegos) o via correo (hajuegos87@gmail.com). Gracias por descargar y probar este add-on :D. Se que se puede mejorar bastante con el tiempo para llegar a una version definitiva. Disfruta!. Si viste un bug o quiere reportar algo para mejorar, puedes hacerlo directamente en este proyecto de GitHub (https://github.com/HaJuegos/Impossible-Difficulty-Add-on/issues/new/choose) o en mi server de discord (https://discord.gg/p6a7tqVJxn) Cualquier reporte de bug o idea para mejorar se agradecera bastante o hasta se puede recompensar en el futuro.
+- Este Add-on fue creado unicamente por Ha Juegos#0123 y pertenece a Ha Juegos#0123, Cualquier copia o modificacion no autorizada o subida, Links de descargas externos, Subir contenido con el add-on sin dejar permisos y decir que es de tu propiedad. es completamente sancionable. Para mas informacion sobre tus modificaciones o otro tipo de cosa, contactame en Privado en discord (Ha Juegos#0123), via twitter (https://twitter.com/ha_juegos) o via correo (hajuegos87@gmail.com). Gracias por descargar y probar este add-on :D. Se que se puede mejorar bastante con el tiempo para llegar a una version definitiva. Disfruta!. Si viste un bug o quiere reportar algo para mejorar, puedes hacerlo directamente en este proyecto de GitHub (https://github.com/HaJuegos/HardPlus-Minecraft-Difficulty/issues/new/choose) o en mi server de discord (https://discord.gg/p6a7tqVJxn) Cualquier reporte de bug o idea para mejorar se agradecera bastante o hasta se puede recompensar en el futuro.
+
+## GUIA DE USO / OPERATION GUIDE
 
 [ENG - USER GUIDE]
-- Generally all the add-on at the moment is automatic and you don't have to do anything out of the ordinary which is to set Textures and Behavior in your world.
-- The Add-on must be run only on **Minecraft version 1.18.30/31/32** other lower version may damage or have strange behavior in the add-on.
+- **The Add-on only supports Minecraft Bedrock version 1.19.10, any other version lower or higher may damage or generate unexpected bugs.**
+- Everything in the add-on is automatic
+- If you use the world template, please follow these steps if you don't know how to do it: [**__SEE IMAGE__**](https://media.discordapp.net/attachments/964653057390546954/997570733473550536/exmple.png)
 
 [ESP - GUIA DE USO]
-- Generalmente todo el add-on por el momento es automatico y no tienes que hacer nada fuera de lo normal que es poner las Texturas y el Comportamiento en tu mundo.
-- El Add-on debe ejecutarse solo en la version de **Minecraft 1.18.30/31/32** otra version inferior puede dañar o tener comportamientos extraños en el add-on.
+- **El Add-on solo soporta la version 1.19.10 de Minecraft Bedrock, Cualquier otra inferior o superior puede dañar o generar bugs inesperados**
+- Todo en el add-on es automatico
+- Si usas el world template, por favor sigue estos pasos si no concoces como se hace: [**__Ver imagen__**](https://media.discordapp.net/attachments/964653057390546954/997570733473550536/exmple.png)
 
 
+## OPCIONES EXPERIMENTALES / EXPERIMENTAL FEATURES
+- _Este add-on, depende de opciones experimentales, ya los puedes ver en el template del mundo y cuando lo crees, Procura tenerlo activo. / This add-on, depending on experimental options, you can already see them in the world template and when you create it, try to have it active._
 
-**[EXPERIMENTAL FEATURES / OPCIONES EXPERIMENTALES]**
-- _Este add-on requiere de estas opciones experimentales activas en tu mundo para poder funcionan de forma correcta, Procura tenerlo activo. / This add-on requires these experimental options to be active in your world in order to work properly, try to have it active._
+![eng](https://cdn.discordapp.com/attachments/997603479822536794/1002035488913367080/experiments_eng.png)
+![esp](https://cdn.discordapp.com/attachments/997603479822536794/1002035489282470019/experimentos_esp.png)
 
-![Captura de pantalla 2022-05-12 173730](https://user-images.githubusercontent.com/102632956/168179105-6a8d42d2-6ccf-410b-9477-72b7529a890b.png)
 
-![Captura de pantalla 2022-05-12 173817](https://user-images.githubusercontent.com/102632956/168179108-b8710ddd-33e7-4954-b9ac-3d9d091e02c5.png)
+## COMO INSTALAR EL ADD-ON EN SERVIDORES / HOW TO INSTALL THE ADD-ON ON SERVERS
+- [**__MIRAR TUTORIAL__**](https://github.com/HaJuegos/The-Games-Store/tree/main/Betas/como%20instalar%20un%20add-on%20en%20servers)
+
+- [**__WATCH TUTORIAL, warning! this tutorial is completely in Spanish__**](https://github.com/HaJuegos/The-Games-Store/tree/main/Betas/como%20instalar%20un%20add-on%20en%20servers)
